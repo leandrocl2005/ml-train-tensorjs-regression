@@ -17,6 +17,7 @@ Dado um número <i>X</i>, prever <i>2X - 1</i>.
 npm init -y
 npm install -g parcel-bundler
 npm install bootstrap
+npm install @tensorflow/tfjs
 parcel index.html
 ```
 Pronto, só ir no navegador e digitar `http://localhost:1234`
